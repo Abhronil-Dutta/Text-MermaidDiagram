@@ -17,7 +17,6 @@ This repository contains several Python scripts for working with text-to-vector 
 - [pandas](https://pandas.pydata.org/)
 - [matplotlib](https://matplotlib.org/)
 - [mermaid-cli](https://github.com/mermaid-js/mermaid-cli) (for rendering diagrams to PNG, used in `try2.py`)
-- [turtle](https://docs.python.org/3/library/turtle.html) (standard library)
 
 You can install the Python dependencies with:
 
@@ -62,11 +61,6 @@ Run `verify.py` to check that all dependencies are installed and working:
 ```bash
 python verify.py
 ```
-
-## Notes
-
-- All generated `.mmd` and `.png` files are output files and can be safely ignored in version control.
-- The `.venv` directory is for the local Python virtual environment and should not be committed.
 
 ## License
 
