@@ -6,7 +6,6 @@ This repository contains several Python scripts for working with text-to-vector 
 
 - `try.py`: Uses a language model to generate Mermaid flowcharts from a given process description and saves the Mermaid code to a file.
 - `try2.py`: Similar to `try.py`, but with more advanced extraction and the ability to render Mermaid diagrams to PNG using the Mermaid CLI. Includes functions for both generating and rendering diagrams.
-- `out.py`: A simple Turtle graphics script that draws a segmented clock-like diagram for visualization purposes.
 - `verify.py`: Verifies that key dependencies (PyTorch, Transformers, Sentence Transformers, Pandas, Matplotlib) are installed and working. Also demonstrates basic usage of these libraries.
 
 ## Requirements
