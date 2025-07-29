@@ -64,14 +64,6 @@ Run `verify.py` to check that all dependencies are installed and working:
 python verify.py
 ```
 
-### Visualization Example
-
-Run `out.py` to see a simple Turtle graphics visualization:
-
-```bash
-python out.py
-```
-
 ## Notes
 
 - All generated `.mmd` and `.png` files are output files and can be safely ignored in version control.
