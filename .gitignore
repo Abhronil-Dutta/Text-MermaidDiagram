@@ -1,0 +1,23 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Mermaid and diagram outputs
+diagram.mmd
+*.mmd
+*.png
+weather_agent.mmd
+weather_agent.png
+coffee_process.mmd
+coffee_process.png
+
+# OS files
+.DS_Store
+Thumbs.db 
